@@ -3,7 +3,6 @@
 Repositori ini adalah tempat pengumpulan tugas dan laporan praktikum Pemrograman Berorientasi Objek (PBO) berbasis Java.
 
 ## Identitas Praktikan
-Silakan ganti teks di dalam kurung siku dengan identitas Anda:
 - **Nama Lengkap:** Nur Tsalits Alwan Mubarok
 - **NIM:** 103132400039
 
